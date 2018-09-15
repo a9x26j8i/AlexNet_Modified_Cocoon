@@ -1,6 +1,6 @@
 # AlexNet_Modified_Cocoon
 
-##Training process
+## Training process
 ![](Coccon.png)
-##Model
+## Model
 ![](flowchart.png)
